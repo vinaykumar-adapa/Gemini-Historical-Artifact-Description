@@ -1,5 +1,3 @@
-🏛️ Gemini Historical Artifact Description
-Powered by Gemini 
 # 🏛️ Gemini Historical Artifact Description
 
 ![Python](https://img.shields.io/badge/PYTHON-3.9+-blue)
